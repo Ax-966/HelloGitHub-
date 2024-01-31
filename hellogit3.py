@@ -1,5 +1,2 @@
-
-
-
 print("Hello BTS")
 
